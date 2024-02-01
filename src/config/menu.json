@@ -1,19 +1,19 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Acerca de mi",
+      "url": "/About"
     },
     {
-      "name": "Tags",
+      "name": "Etiquetas",
       "url": "/tags"
     },
     {
-      "name": "Categories",
+      "name": "Categorias",
       "url": "/categories"
     }
   ]
