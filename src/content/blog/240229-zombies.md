@@ -1,7 +1,7 @@
 ---
 title: 'ZOMBIES'
 description: 'El mundo de los zombies, conoceras los tipos de zombies y sus caracteristicas.'
-pubDate: '2024-02-29T01:21:47.613Z'
+pubDate: '2024-02-29T01:21:48.613Z'
 heroImage: '/zombies.jpg'
 categories: ['Zombies', 'terror']
 tags: ['Zombies', 'Mutaciones', 'Experimentos', 'Peliculas', 'series']
