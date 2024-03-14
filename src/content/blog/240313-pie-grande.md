@@ -1,3 +1,4 @@
+---
 title: 'PIE GRANDE'
 description: 'también conocido como Sasquatch, es un críptido con el aspecto de un primate perteneciente a la familia de los homínidos, que supuestamente suele verse en bosques a elevadas altitudes'
 pubDate: '2024-02-29T01:21:47.613Z'
