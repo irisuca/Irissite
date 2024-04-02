@@ -1,9 +1,9 @@
 ---
 title: 'FREDDY KRUEGER'
-description: 'El unicornio es una criatura mitológica del folclore europeo representada habitualmente como un caballo blanco con patas de antílope, ojos y pelo de cabra y un cuerno en la frente.'
-pubDate: '2024-03-29T01:21:51.613Z'
+description: 'el espíritu de un asesino en serie quemado que mata a sus víctimas en sus sueños, causando con ello su muerte en el mundo real.'
+pubDate: '2024-03-29T01:21:11.613Z'
 heroImage: '/fredi kruger.webp'
-categories: ['Caballo', 'unicornios','terror', 'mitologia', 'leyenda']
-tags: ['caballo', 'cuerno', 'mitologico', 'Peliculas', 'spelaje']
+categories: ['hombre', 'asesino','terror', 'mitologia', 'leyenda']
+tags: ['hombre', 'asesino en serie', 'mitologico', 'Peliculas', 'spelaje']
 author: '["Iris Almaguer"]'
 ---

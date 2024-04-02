@@ -1,9 +1,9 @@
 ---
 title: 'MOSTRUO DEL LAGO NESS'
-description: 'El unicornio es una criatura mitológica del folclore europeo representada habitualmente como un caballo blanco con patas de antílope, ojos y pelo de cabra y un cuerno en la frente.'
-pubDate: '2024-03-29T01:21:51.613Z'
+description: 'El monstruo del lago Ness, comúnmente llamado Nessie, ​ es el nombre de un animal legendario que se dice que habita en el lago Ness, un profundo lago de agua dulce cerca de la ciudad de Inverness, en Escocia. Junto con Pie Grande y Yeti, Nessie es quizá el misterio más popular y más difundido de la criptozoología.'
+pubDate: '2024-03-29T01:21:31.613Z'
 heroImage: '/ness.jpg'
-categories: ['Caballo', 'unicornios','terror', 'mitologia', 'leyenda']
-tags: ['caballo', 'cuerno', 'mitologico', 'Peliculas', 'spelaje']
+categories: ['monstruo', 'lago','terror', 'mitologia', 'leyenda']
+tags: ['animal', 'lago', 'mitologico', 'Peliculas', 'pez']
 author: '["Iris Almaguer"]'
 ---
