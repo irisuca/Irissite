@@ -3,12 +3,13 @@ title: 'SIRENA'
 description: 'la mujer mas bella, considerada asi por muchos, utilizaba su talentosa y cautivadora vo para atrapar a los navegantes desd elo mas adentrado del oceano'
 pubDate: '2024-02-29T01:21:50.613Z'
 heroImage: '/Sirena.webp'
-categories: ['sirena', 'terror', 'mitologia', 'leyenda','oceanos']
+categories: ['sirenas', 'terror', 'mitologia', 'leyenda','oceanos']
 tags: ['sirena', 'canto', 'hinopsis', 'Peliculas', 'series', 'pescado']
 author: '["Iris Almaguer"]'
 ---
 
-En las profundidades oscuras del océano, donde la luz del sol apenas se atreve a penetrar, yace un antiguo reino habitado por criaturas de belleza mortal: las sirenas. Pero estas no son las criaturas encantadoras de las leyendas, sino seres siniestros y sedientos de sangre.
+
+En las profundidades oscuras del océano, donde la luz del sol apenas se atreve a penetrar, yace un antiguo reino habitado por criaturas de belleza mortal: las sirenas. Pero estas no son las criaturas encantadoras de las leyendas, sino seres siniestros y sedientos de sangre.
 
 En una noche de luna llena, un grupo de navegantes se aventura en aguas prohibidas, ignorando las advertencias de los lugareños sobre las sirenas que acechan en esas aguas. Mientras la brisa marina juega con sus cabellos, una melodía hipnótica comienza a resonar desde las profundidades, atrayendo a los desprevenidos marineros hacia su destino funesto.
 
