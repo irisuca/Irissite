@@ -4,6 +4,6 @@ description: 'Uno de los edificios más icónicos de la Plaza Río de Janeiro en
 pubDate: '2024-04-07T12:21:49.613Z'
 heroImage: '/brujas.jpg'
 categories: ['leyendas', 'terror', 'brasil']
-tags: ['brujas', 'gritos', 'transformaciones', 'Peliculas', 'sombrero']
+tags: ['brujas', 'gritos', 'transformaciones', 'Peliculas', 'sombrero', 'sangre']
 author: '["Iris Almaguer"]'
 ---
