@@ -4,6 +4,6 @@ description: 'La Isla de las Muñecas, ubicada en los canales de Xochimilco, al 
 pubDate: '2024-04-07T10:00:49.613Z'
 heroImage: '/muñecas.jpg'
 categories: ['leyendas', 'terror', 'isla']
-tags: ['muñecas', 'maldición', 'isla', '']
+tags: ['muñecas', 'maldición', 'isla']
 author: '["Iris Almaguer"]'
 ---
